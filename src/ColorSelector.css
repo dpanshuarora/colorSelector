@@ -1,0 +1,51 @@
+.red{
+    color: red;
+}
+
+.blue{
+    color: blue;
+}
+
+.green{
+    color: green;
+}
+
+.black{
+    color:black;
+}
+
+button.red {
+  background-color: red;
+  padding: 10px;
+}
+
+button.blue {
+  background-color: blue;
+  padding: 10px;
+}
+
+button.green {
+  background-color: green;
+  padding: 10px;
+}
+
+button.black {
+  background-color: black;
+  padding: 10px;
+}
+
+.physical-display {
+  /* display: block; */
+}
+
+.digital-hidden {
+  display: none;
+}
+
+.physical-hidden {
+  display: none;
+}
+
+.digital-display {
+  /* display: block; */
+}
